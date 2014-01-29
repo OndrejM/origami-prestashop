@@ -1,0 +1,8 @@
+Dobrý den p. {firstname} {lastname}.
+
+Byla pro Vás vygenerována nová objednávka.
+
+Přejít na {order_link} k dokončení platby.
+
+
+Obchod {shop_name} – {shop_url} funguje v systému PrestaShop™

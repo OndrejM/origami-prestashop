@@ -1,0 +1,13 @@
+Dobrý den p. {firstname} {lastname}.
+
+Váš návštěvnický účet v obchodě {shop_name} byl přeměněna na zákaznický účet.
+
+E-mail: {email}
+Heslo: {passwd}
+
+Můžete přistupovat ke svému účtu na našich webových stránkách: {shop_url}
+
+Prosím, buďte opatrní při sdílení těchto přihlašovací údajů s ostatními.
+
+
+Obchod {shop_name} – {shop_url} funguje v systému PrestaShop™

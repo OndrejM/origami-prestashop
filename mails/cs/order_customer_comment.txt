@@ -1,0 +1,11 @@
+Dobrý den.
+
+Obdrželi jste novou zprávu od zákazníka týkající se objednávky s označením {order_name}.
+
+Zákazník: {firstname} {lastname} ({email})
+
+Message: 
+{message}
+
+
+Obchod {shop_name} – {shop_url} funguje v systému PrestaShop™

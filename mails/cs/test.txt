@@ -1,0 +1,8 @@
+Dobrý den.
+	
+Toto je testovací e-mail z vašeho obchodu PrestaShop™.
+
+Pokud můžete přečíst tuto zprávu, pak byl test úspěšný!
+
+
+Obchod {shop_name} – {shop_url} funguje v systému PrestaShop™

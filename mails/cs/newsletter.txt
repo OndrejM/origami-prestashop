@@ -1,0 +1,6 @@
+Newsletter z obchodu {shop_name}
+
+{message}
+
+
+Obchod {shop_name} – {shop_url} funguje v systému PrestaShop™
