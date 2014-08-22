@@ -89,17 +89,21 @@
 		</descriptions>
 	</partner>
 <partner>
-	<name><![CDATA[MoneyBookers by Skrill]]></name>
-	<module>moneybookers</module>
+	<name><![CDATA[Hipay]]></name>
+	<module>hipay</module>
 	<checkconfiguration>
-		<key>MB_SECRET_WORD</key>
+		<key>HIPAY_ACCOUNT_%</key>
+		<key>HIPAY_PASSWORD_%</key>
+		<key>HIPAY_SITEID_%</key>
 	</checkconfiguration>
-	<logo>http://api.prestashop.com/partner/premium/images/moneybookers.png</logo>
+	<logo><![CDATA[http://api.prestashop.com/partner/premium/images/hipay.png]]></logo>
 	<labels>
-		<label iso="en"><![CDATA[Accept local payments by Skrill]]></label>
-		<label iso="de"><![CDATA[Annehmen Sie Zahlungen mit Skrill]]></label>
-		<label iso="fr"><![CDATA[Acceptez les paiements localement via Skrill]]></label>
+		<label iso="en"><![CDATA[The fast, simple multimedia payment solution for everyone in Europe]]></label>
+		<label iso="fr"><![CDATA[La solution multi-mode de paiement rapide, simple et pour tous en Europe]]></label>
+		<label iso="de"><![CDATA[Wahlen Sie eine sichere und effiziente Losung fur den Erhalt von Bezahlungen und das Bezahlen online]]></label>
 	</labels>
+	<optionals>
+	</optionals>
 	<descriptions>
 	</descriptions>
 </partner>
